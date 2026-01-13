@@ -1,14 +1,34 @@
-## 🧪 QA Stack
+👨‍💻 Liliane Costa
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-5A5A5A?style=for-the-badge)
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-0A66C2?style=for-the-badge)
+**QA Tester**
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright)
+My name is Liliane Costa, originally from Brazil, and currently based in Portugal.  
+I work with software testing, focusing on quality, user experience, and continuous improvement.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+---
+
+📍 **Location:** Porto, Portugal  
+📧 **Email:** lilianeg.costa™gmail.com 
+
+---
+## 🤖 Languages and Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_128x128.png" width="50"/>
+</p>
+
+
+## 📊 Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=tokyonight)
+
+&theme=dracula
 
 
 <!--
