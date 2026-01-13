@@ -1,34 +1,36 @@
-👨‍💻 Liliane Costa
+## 👨‍💻 Liliane Costa
 
-**QA Tester**
+[![QA TESTER](https://img.shields.io/badge/QA%20TESTER-black?style=flat-square)](https://img.shields.io/badge/QA%20TESTER-2b2b2b?style=flat-square
+)
 
-My name is Liliane Costa, originally from Brazil, and currently based in Portugal.  
-I work with software testing, focusing on quality, user experience, and continuous improvement.
+My name is Liliane Costa, originally from Brazil and currently based in Portugal.  
+I work with software testing, focusing on quality, user experience, and continuous improvement.  
+I have experience with manual testing, bug reporting, and test case creation, and I am building skills in test automation.
 
 ---
 
-📍 **Location:** Porto, Portugal  
-📧 **Email:** lilianeg.costa™gmail.com 
+[![Email](https://img.shields.io/badge/Email-lilianeg.costa@gmail.com-purple)](mailto:lilianeg.costa@gmail.com)
+![Location](https://img.shields.io/badge/Location-Porto%2C%20Portugal-orange)
+![Phone](https://img.shields.io/badge/Phone-+351%20935%20190%20240-blue)
+
 
 ---
 ## 🤖 Languages and Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_128x128.png" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
+  <img src="https://camo.githubusercontent.com/9a2a1a9688c51ad3fd3f6cf8b30553d8163edc4cb7d074b6cc184390c65cebd7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f63797072657373696f2f63797072657373696f2d6f726967696e616c2e737667" width="40"/>
+
 </p>
 
 
-## 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=tokyonight)
 
-&theme=dracula
+
 
 
 <!--
@@ -44,4 +46,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## 📊 Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lilianegcosta&show_icons=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilianegcosta&layout=compact" />
+</p>
+--> 
