@@ -1,4 +1,4 @@
-## 👨‍💻 Liliane Costa
+## 👩‍💻 Liliane Costa
 
 [![QA TESTER](https://img.shields.io/badge/QA%20TESTER-black?style=flat-square)](https://img.shields.io/badge/QA%20TESTER-2b2b2b?style=flat-square
 )
