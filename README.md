@@ -1,6 +1,6 @@
 ## 👩‍💻 Liliane Costa
 
-![QA Tester | Manual & Automation](https://img.shields.io/badge/QA%20Tester%20|%20Manual%20%26%20Automation-2b2b2b?style=flat-square)
+![QA Tester | Manual & Automation](https://img.shields.io/badge/QA%20Tester%20|%20Manual%20%26%20Automation-8b949e?style=flat-square)
 
 
 My name is Liliane Costa, currently based in Portugal and originally from Brazil.  
