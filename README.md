@@ -1,11 +1,11 @@
 ## 👩‍💻 Liliane Costa
 
-[![QA TESTER](https://img.shields.io/badge/QA%20TESTER-black?style=flat-square)](https://img.shields.io/badge/QA%20TESTER-2b2b2b?style=flat-square
+[![QA Tester | Manual & Automation](https://img.shields.io/badge/QA%20TESTER-black?style=flat-square)](https://img.shields.io/badge/QA%20TESTER-2b2b2b?style=flat-square
 )
 
 My name is Liliane Costa, originally from Brazil and currently based in Portugal.  
-I work with software testing, focusing on quality, user experience, and continuous improvement.  
-I have experience with manual testing, bug reporting, and test case creation, and I am building skills in test automation.
+I work with software testing, focusing on quality, user experience, and continuous improvement.
+I have hands-on experience with manual testing, bug reporting, test case creation, and collaboration with development teams, and I am building skills in test automation.
 
 ---
 
@@ -23,11 +23,7 @@ I have experience with manual testing, bug reporting, and test case creation, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
   <img src="https://camo.githubusercontent.com/9a2a1a9688c51ad3fd3f6cf8b30553d8163edc4cb7d074b6cc184390c65cebd7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f63797072657373696f2f63797072657373696f2d6f726967696e616c2e737667" width="40"/>
-
 </p>
-
-
-
 
 
 
